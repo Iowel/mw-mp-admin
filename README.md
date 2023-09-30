@@ -1,2 +1,2 @@
-# mw-mp-admin
-mw-mp-admin
+# mw-mp-seller
+mw-mp-seller
